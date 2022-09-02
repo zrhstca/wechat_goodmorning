@@ -10,7 +10,7 @@
 "user":["o15Vv5zT1vNv4zpVMEmq6wi8iVxQ"],
 # 信息配置
 #和风天气apikey
-"weather_key":"MY_WEATHER",
+"weather_key":"4d37b8a5da384233a38528f5e473e3bc",
 # 所在地区，可为省、市、区县
 "region":"长沙市",
 #英文金句
